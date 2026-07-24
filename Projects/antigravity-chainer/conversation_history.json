@@ -1,0 +1,10 @@
+[
+  {
+    "input": "What was the original question?",
+    "output": "This is the first message in our conversation, so no prior question or prompt was provided. Please go ahead and share what you'd like assistance with!"
+  },
+  {
+    "input": "I asked you what is 2+2, you said 4. Now what is 5+5?",
+    "output": "5 + 5 is 10."
+  }
+]
