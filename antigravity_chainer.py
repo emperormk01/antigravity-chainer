@@ -29,8 +29,8 @@ API_KEY = os.environ.get("GOOGLE_API_KEY", "AQ.Ab8RN6I-nXc9z7ca0P0AV3YJG2Od0A5FH
 AGENT = "antigravity-preview-05-2026"
 ENVIRONMENT = "remote"
 
-# Optional persistence path
-HISTORY_FILE = Path("/home/workspace/Projects/antigravity-chainer/conversation_history.json")
+# Optional persistence path - alongside script in repo root
+HISTORY_FILE = Path(__file__).parent / "conversation_history.json"
 
 
 def load_history() -> list[dict]:
