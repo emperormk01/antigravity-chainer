@@ -75,3 +75,7 @@ python3 antigravity_chainer.py --strategy full_history --task "What was the orig
 
 - `antigravity_chainer.py` — CLI tool with both strategies
 - `conversation_history.json` — persisted interaction chain (created on `--persist`)
+
+---
+
+**Prepared by Emperor M.K** ([@emperormk01](https://github.com/emperormk01) — emperormk01@gmail.com) — Telegram [@emperormk01](https://t.me/emperormk01)
